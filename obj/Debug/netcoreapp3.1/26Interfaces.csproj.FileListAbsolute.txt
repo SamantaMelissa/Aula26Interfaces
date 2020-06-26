@@ -1,0 +1,13 @@
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\bin\Debug\netcoreapp3.1\26Interfaces.exe
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\bin\Debug\netcoreapp3.1\26Interfaces.deps.json
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\bin\Debug\netcoreapp3.1\26Interfaces.runtimeconfig.json
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\bin\Debug\netcoreapp3.1\26Interfaces.runtimeconfig.dev.json
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\bin\Debug\netcoreapp3.1\26Interfaces.dll
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\bin\Debug\netcoreapp3.1\26Interfaces.pdb
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.csprojAssemblyReference.cache
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.AssemblyInfoInputs.cache
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.AssemblyInfo.cs
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.dll
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.pdb
+C:\Users\saman\OneDrive\Documentos\Aula26Interfaces\obj\Debug\netcoreapp3.1\26Interfaces.genruntimeconfig.cache
